@@ -8,7 +8,7 @@
   
   ### Conecte Comigo:
   <p>
-  <a href="https://www.linkedin.com/in/guilherme-almeida-46348b232/">
+  <a href="https://www.linkedin.com/in/guilherme-almeida-46348b232/" target="_blank">
   <img align="left" alt="Linkedin" width="44px" src="https://static.vecteezy.com/system/resources/previews/018/930/585/original/linkedin-logo-linkedin-icon-transparent-free-png.png">
   </a>
   </p>
